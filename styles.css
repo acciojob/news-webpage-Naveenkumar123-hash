@@ -1,9 +1,13 @@
 /*  your css code here. If applicable */
-#c1{background-color:#011e29;
+#header{background-color:#011e29;
    color:white;
-  text-align:center;}
+  text-align:center;
+   font-size:25px}
 .child{display:flex;
-	  background-color:#f5f5f5;}
+	  }
 .child-1,.child-2,.child-3{
+	background-color:#f5f5f5;
 	padding:15px;
+    width:100%;
+	text-align:center;
 }
