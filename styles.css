@@ -5,7 +5,7 @@
    font-size:25px}
 .child{display:flex;
 	  }
-.latest-news-section,.child-2.pictorial-news-section{
+.latest-news-section,.child-2,.pictorial-news-section{
 	background-color:#f5f5f5;
 	padding:15px;
     width:100%;
